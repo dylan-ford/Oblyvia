@@ -1,0 +1,19 @@
+- This city is located in a desert and was founded on an oasis which is the only source of water for hundreds of kilometers. This water scarcity means the surrounding fauna are giant fierce monsters which compete for the water, which the denizens of the city fight against relentlessly. The city uses the parts from monsters to craft stronger weapons, armour, technology, and reinforce their architecture. Instead of a standing military, the city relies on its monster hunting guild to fight any incoming threats, and this guild is deeply entrenched in the community which immunizes it from attempts of centralized authoritarianism. Within this city they also imprison some of the captured monsters which they release into a large Colosseum where champions battle them for glory, and where new hunters are trained.
+	- - The weapons, artifacts, and architecture crafted from the monster parts retain their magical properties
+	- Ex. Killing a black dragon would allow you to imbue a sword with acidic power; using scales of a black dragon to make acid resistant armour
+	- Each year they have a great monster fighting tournament that people come from all over the world to watch
+	- Groups of hunters compete in rounds against tougher and tougher monsters
+	- Our adventuring party could compete for riches, magical items, to get closer to high ranking officers for political intrigue
+City highlights/culture
+- Center of culture is monster hunting
+- Community and strength/ability to protect others are the most important values
+- Resource scarcity
+- Thick outer city circular wall to keep monsters out
+- Wharf where the sand ships are docked
+	- On the wharf would be holding and slaughter docks where monster parts are carved, and captured monsters are transported to the subterranean cells
+- Colosseum
+	- Central back part of town
+- Monster holding area (beneath colosseum)
+- Monster processing area
+	- Beside colosseum
+	- Captured monsters are ether sent to the holding area to be studied/fought in the arena

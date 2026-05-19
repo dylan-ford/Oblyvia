@@ -1,0 +1,10 @@
+- Tales of this continent revere it as a beautiful shimmering paradise that is made of gold
+- Yellow leaved trees like Leyndell
+- High concentration of metals and precious ores
+- Home of drawves and massive mining operations
+- Richest civilizations live here
+- Technologically advanced city with protoss cannons - haven for automatons and robot people
+	- Maybe floating city
+	- Huge gaming (casinos gambling) economy, body augmentation black market, lots of back alley societal dregs cyborgs and crime lords
+	- Cyborg syndicate
+	- -opolis

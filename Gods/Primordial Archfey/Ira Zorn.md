@@ -1,0 +1,13 @@
+Primordial Archfey of Rage | 2
+
+Ira Zorn, the second primordial archfey, delights in the warmth of anger and flocks to conflict to bathe in its hearth. Conflict is as old as time and has always followed mortals and creatures since sentience; Ira Zorn has never hungered for long. It seldom has need to influence mortals on scale, as they are adept at creating turmoil between themselves all on their own. Rather it offers the chance at revenge to those who have been wronged… to feast on the intimate fury produced by a single man betrayed. It looms ever presently above battlefields, feasting on the swirling vortex of primal rage and anger felt by the combatants. 
+- "Dust… dust fills my lungs. The haze of war clouds my vision as I feel the blood of my comrades painting my skin. The ones I loved, all taken from me by these intruders, these lawless barbarians. Noble thoughts flicker briefly in my mind: ‘who else will stop them?’ ‘protect the survivors,’ but they're gone. No. Veins bulging, blood boiling, vision narrowing, teeth grinding. I want to kill them. A voice like grinding metal on the inside of my skull speaks: “Let us kill them, let me in and you will have your vengeance.” My warhammer sears my palm as I grip it, its weight now a living thing, pulsing with a second heartbeat. The metallic taste of blood fills my mouth as I feel my muscles burst with power… real power. The first skull cracks like pottery. The second. The third. I watch myself through my own eyes as a spectator, a crimson horse leading the stampede of death. Cheers rise behind me. Or is that another war cry? Shadows twist the faces of allies and enemies alike. Kill. Break them. As the red mist fades, the field is silent. Beneath me, a boy’s body with hands around his neck. My hands… my boy... Brown eyes lifeless fixed skyward. As I follow his gaze an enormous horse skull shaped cloud fades as its harrowing neigh turns into laughter." - victim of Ira Zorn 
+
+Appearance
+- Iron horse skull glowing red eyes atop a sinewy crimson vulture
+Modus
+- Seeks to revert the world to times of unthinking beasts, where savagery and anger ruled all creatures
+	- embodiment of savagery
+- Leaves cursed weapons for adventurers which grip the mind, draining it of sanity as its influence searches for justification for violence and rage. A once worthy and noble paladin snaps after witnessing one too many injustices, an apathet turns anger inwards and lashes out around them, a personal quarry fosters into the murder of a friend
+- Ancient relics and lockets poison the minds of nobles and rulers, escalating conflicts to grand scales
+

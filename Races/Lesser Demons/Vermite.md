@@ -1,0 +1,3 @@
+- Red, hulking, multi-armed humanoid demons
+- Fleshy bodies of woven muscle and sinew, and arms tipped with crude claws
+- blood fiend

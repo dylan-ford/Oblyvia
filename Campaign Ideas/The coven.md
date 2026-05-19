@@ -1,0 +1,27 @@
+- coven of 4 hags (sea, night, annis, bheur) governed by an arch hag
+- hags delight in suffering
+	- they especially love making tricky bargains with mortals and twisting their intentions, making them complicit in their own demise/corruption 
+	- desperation is the best bargaining tool of a hag
+	- leave the smallest bit of hope in a corrupted community that the hag may undo the misery, as a means of keeping leverage over it
+- hags are demonspawn of the great fiend Cekaxis and Balathet
+	- they physically feed on the suffering, anguish, and misery of other creatures and emboldened by their own greed
+	- These are the currency through which hags bargain. they will accept suffering on the behalf of the party in exchange for something, or will accept something they genuinely desire to sate their greed
+- hags generally seek to hoard dark secrets and forbidden knowledge
+	- sea hags
+		- 
+	- night hags
+		- 
+	- annis hags
+		- 
+	- bheur hags
+		- 
+	- they seek information about other beings of great power and show some respect to those with information about such creatures
+- hags and their covens keep wide webs of influence and intimately understand mortal vices and how to manipulate them
+	- Hags often appear unlooked for, in moments of great need, because they have been spying and see an opportunity to aid now to set up darker mischief later.
+- hags are incredibly arrogant
+	- see other creatures as inferior
+	- hate being in debt
+	- but always have an escape plan from combat back to their home
+		- through magical items, deals with other creatures who will help in dire situations
+		- will immediately start planning revenge against the individual or even their children (motivation for PC maybe their parents were killed by a hag who swore to end their bloodline due to a transgression from their grandparents)
+- unspoken oath to bring gifts when entering another hags territory even though they dont like each other

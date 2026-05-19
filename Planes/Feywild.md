@@ -1,0 +1,1 @@
+Plane of pure, raw emotion. Emotions are tangible here, comprising the landscape and physical environment. In the untamed wilds of this plane, changes in a person's emotions cause immediate ripple effects in their surroundings: sadness begets rainclouds, winter weather, and mudslides; happiness causes flowers to bloom and the sky to brighten!

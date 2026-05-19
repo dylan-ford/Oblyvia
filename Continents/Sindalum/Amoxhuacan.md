@@ -1,0 +1,13 @@
+- “Place of the Feathered Serpent’s Wisdom”
+- Inhabited by Quetzalli. A race of reptilian humanoids adorned with majestic feathers, and thought to be descendants of Quetzalcoatl himself. 
+- Ancient mesoamerican style coastal city, the harbor is located where the river spills out into Coatochtli Bay. Directly north is the sprawling lush _ Rainforest where the people of the city hunt for food, harvest for resources, and honour for their rituals. In the middle of the city resides the world famous hanging gardens and bath house: The Amber Veil. This is the focal point for the city’s tourism, a place where all types of people can relax and have each and every one of their troubles melt away. To the west of the Veil is the sprawling markets of Amoxhuacan. People come from all over to peruse the diverse and rare goods sold here, where no two items are the same. To the west of that lies the holy district where rituals are planned, council meetings are held, and the needy are fed and housed. Lastly the southeast section of the city houses the recreation court and the great Ziggurat where the ascension ritual takes place and homage is paid to the city’s guardian Quetzalcoatl.
+Plots
+- The approaching their ascension ceremony where 1 hero selected by the village for their heroic deeds/virtue and is emboldened by the visit of Quetzalcoatl themselves
+- Jealous uncle/vizier/hierophant of the emperor/emperor’s child messes with the ritual and attempts to summon Quetzalcoatl ’s counterpart, Camazotz
+- Nearby waterfall basin which houses an ancient temple of this betrayer god
+- Party can go in here to discover these plans, its infested with aztec demons
+- Final battle is party fighting on top of the ziggurat to try and stop the ritual the evil uncle is trying to perform to open a portal for the betrayer god 
+- If it gets through it can fight quetzalcoatl 
+- Nearby city that split off from Amoxhuacan due to religious differences (they chose to follow Camazotz, god of death)
+- Camazotz is revered as the god of death, night, and sacrifice. He is in the service of the lords of the underworld. His influence is made stronger during full moons, and is able to travel to our realm on blood moons. Opposes Quetzalcoatl and wants to kill him.
+- Ancient artifacts of quetzalcoatl (blue sphere surrounded by coiled rock in the shape of a flying serpent - spectrobes origins geo) and camazotz (closed golden ball with glowing red gem inside)

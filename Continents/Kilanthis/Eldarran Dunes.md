@@ -1,0 +1,4 @@
+- Lava pools between the bases of the ashy dunes found here
+- Volcanic mountains and smoky peaks tower over grey and black mounds of sands
+- Badlands area
+- Dark dunes on top, magma caverns beneath the surface

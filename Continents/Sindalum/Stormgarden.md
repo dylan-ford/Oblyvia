@@ -1,0 +1,1 @@
+- The Stormgarden is a 2x2km stretch of the forest where it is eternally plagued by relentless winds, rain, and lightning. The trees here are lit ablaze by the ferocious lightning strikes, and put out shortly after by the driving rain.

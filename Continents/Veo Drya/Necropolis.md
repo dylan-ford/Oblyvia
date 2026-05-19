@@ -1,0 +1,1 @@
+- Necropolis where clerics and paladins to the god of death sell burial plots to the wealthy and powerful, due to corruption these priests cast speak with dead to gain knowledge to blackmail and seek out assets of the deceased

@@ -1,0 +1,2 @@
+
+Towering mountain constantly shrouded by a storm of dark snow. Located at the northernmost point of Sindalum, the region surrounding the mountain is cold, hostile, and alien. Despite this, strange creatures make a way of life here. Similar to how the ocean depths breed alien-looking creatures, the harsh cold and darkness here birth monstrosities beyond comprehension. The mountain is said to house an ancient temple within where old civilizations practiced dark magic, causing the mountain to be cursed to this day.

@@ -1,0 +1,11 @@
+- Ancient temple/tomb that's been sealed for thousands of years
+- Friendly nomadic tribes have taken up refuge on the platform in front of the temple
+- The main entrance is a set of massive, immovable stone doors that require a puzzle to unlock
+- Puzzle
+	- Secret switch
+	- 2 rings of runes on the ground on either side of the temple entrance begin to glow (1 ring has the nomad camps set up on it)
+	- Each tile can be pressed down. The correct tiles need to be pressed on each ring for the doors to open
+	- Runes are in |PLACEHOLDER| language, if players can read the language the tiles will be recognizable letters
+	- Each dial needs to spell a word related to the temple
+- The Bedouins have a mage with them that keeps them safe at night with a Tiny Hut spell, allowing them to stay here and use the temple as a home
+	- If the party leaves and comes back they could be gone with some of their belongings scattered across the temple, with a blood trail going towards the switch that ignites the runes, as well as bloody hand prints on some of the runes on the ground

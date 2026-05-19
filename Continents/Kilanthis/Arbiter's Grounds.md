@@ -1,0 +1,3 @@
+- Environment transitions from arid, sandy desert to arcane rich floating stones and magical energies hidden beneath the solid stones
+- Large rocks with runes carved into them are strewn about the sand, and the runes glow at night
+- Cursed rock men live here in exile (GoT stone men) but also protect the temples here
