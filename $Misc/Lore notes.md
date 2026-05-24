@@ -1,3 +1,4 @@
 - provide "concrete touchstones" for the players, where objects, statues of old heroes, and ruins they interact with were once real, bustling places with history
 	- use these interactables as a means to tell the history of your world and provide interest about your world
 	- allow them to interact with the past of your world
+	- hello
