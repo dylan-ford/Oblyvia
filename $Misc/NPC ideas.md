@@ -16,3 +16,5 @@ Evil/nefarious sounding names
 
 Names
 - Arlon
+
+- Forellow the Fool Knight
