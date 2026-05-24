@@ -9,3 +9,6 @@ Lore
 Appearance
 - Old warrior
 - Lion
+
+Followers:
+- "we are a vessel for the emperor, when it is madness bid it is madness done"
