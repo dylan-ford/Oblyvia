@@ -8,3 +8,5 @@ The plane of air, Aemyr, is an endless sea of gentle breezes, forceful gales, an
 - looking up in Aemyr sees a seemingly infinite dome of cloud above, with a single circular pocket allowing in light. Depending on the day this hole can expand, showing wide blue skies beyond or close up, leaving a dark and foreboding tapestry heralding storms. Looking
 - on bright days the temperature is comfortable but is usually colder than is comfortable for most races
 - sunsets paint the cloudy skies a technicolour blend of pinks, oranges, and purples and are said to be some of the most beautiful views in the multiverse 
+- whale-like megafauna soar through the skies never needing to land due to their natural buoyancy. at the end of their lifecycles they plummet from the sky into the dark depths below, creating an occasional hazard requiring inhabitants to remember to look above them
+	- The dark depths are a mysterious place that is much unknown. Do these whale corpses pile up somewhere at the bottom? is there even a bottom to Aemyr?
