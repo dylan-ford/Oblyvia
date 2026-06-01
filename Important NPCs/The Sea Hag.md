@@ -23,3 +23,9 @@ Appearance
 - cuttlefish - camoflage
 - stonefish - ridge/spines
 - anglerfish - lantern + teeth
+
+
+dead pearl > sea salt pearl
+- artifact of great divine power that shapes its ability to best suit the strongest desire of the wielder, while draining their soul/desire in the process
+- sea hag is trying to get her hands on it, maybe to turn everyone super ugly
+- the longer someone spends with the artifact the more their emotions/desire fill it and augments its capabilities
