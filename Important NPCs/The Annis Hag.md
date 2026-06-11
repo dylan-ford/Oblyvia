@@ -1,0 +1,2 @@
+- something they are doing is riling up monsters and creatures in the nearby area, causing them to stampede and risk nearby villages
+- could be a mining tool they are using to destroy the land to get to the plane of earth for something

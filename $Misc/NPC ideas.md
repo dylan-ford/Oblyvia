@@ -18,3 +18,5 @@ Names
 - Arlon
 
 - Forellow the Fool Knight
+
+- Monkey civilization that loves eating honey, lives near giant hives in the forest, gorilla warriors
