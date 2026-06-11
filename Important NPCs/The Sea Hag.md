@@ -25,7 +25,9 @@ Appearance
 - anglerfish - lantern + teeth
 
 
-dead pearl > sea salt pearl
-- artifact of great divine power that shapes its ability to best suit the strongest desire of the wielder, while draining their soul/desire in the process
+The dead pearl
+- Ancient relic that once had the power to grant a wish once it drained sufficient emotional energy from creatures and the world around it. The wish would be limited in valence based on the emotions absorbed. Most famously the pearl was in possession of the ___ empire who would display it prominently in the town square during festivals, capturing essence of revelry, high spirits, and joy in order to bless the city with good fortune every year. However, if enough raw anger and rage were absorbed, the pearl could unleash cataclysmic destruction.
+- The pearl hasn't been active in centuries despite the efforts of countless orders of mages to restore it.
+
 - sea hag is trying to get her hands on it, maybe to turn everyone super ugly
-- the longer someone spends with the artifact the more their emotions/desire fill it and augments its capabilities
+
