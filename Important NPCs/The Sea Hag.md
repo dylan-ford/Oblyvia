@@ -36,4 +36,7 @@ The dead pearl
 		- help from an inside teacher
 - kobolds bring artifact back to a topaz dragon
 	- why?
-		- topaz dragon hoards remnants of lost civilzations, evidence of decay, signs of entropy and the natural cycle of the universe dragon dragon has made a deal with a sea hag to cure its incurable disease in exchange for the artifact
+		- topaz dragon hoards remnants of lost civilizations, evidence of decay, signs of entropy and the natural cycle of the universe 
+		- dragon dragon has made a deal with a sea hag to cure its incurable disease in exchange for the artifact
+		- could the topaz dragon help restore the dead pearl? with its eye or talon or something
+-  high level: arch hag trying to recruit the topaz dragon into her army via sea hag
