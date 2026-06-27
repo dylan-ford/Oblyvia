@@ -1,0 +1,5 @@
+- Feed on happiness and want to make people feel happy, whether in the moment or later
+- content to feed on shallow, temporary happiness
+- People who make deals with gentle hags fulfill their desire for happiness and can get addicted. Leaving their lives behind for constant hits of happiness, causing them to abandon all hopes, dreams, and pursuits they once had
+	- smiling zombies
+- These hags have the greatest ability to amass followers, who will fervently defend the source of their bliss
