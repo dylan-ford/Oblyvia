@@ -1,4 +1,4 @@
-Primordial Archfey of Dreams | 9
+Primordial of Dreams | 9
 
 Appearance:
 

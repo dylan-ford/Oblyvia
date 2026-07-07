@@ -1,4 +1,4 @@
-Primordial Archfey of Pride | 4
+Primordial of Pride | 4
 
 - Identity obsession, narcissism, vanity, obsessive ambition, greed; feels they deserve more, 
 	- Delusions of grandeur, the demonstration that they are inherently better, they are owed because of their status

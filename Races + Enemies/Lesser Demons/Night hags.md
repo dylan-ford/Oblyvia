@@ -1,0 +1,4 @@
+- Spawn of [[Revalom]], primordial of nightmares
+- Able to induce unpleasant visions and terror in the sleeping
+- Those tormented by a night hag often fear falling asleep
+	- Once a mortal is sufficiently sleep deprived they cannot keep the night hag at bay in the dream world, and their broken husk becomes a soul wyrm, currency for the night hag

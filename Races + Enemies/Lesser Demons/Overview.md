@@ -7,7 +7,8 @@ Beauteur
 - Succubus
 - Sea hags
 Cekaxis agony
-- 
+- bheur hags
+- black skeleton-wraiths, undead
 Ira Zorn
 - Vermite
 - Annis hags
@@ -18,5 +19,4 @@ Ouisui decadence
 Revalom nightmares
 - night hags
 Sepulchur despair
-- black skeleton-wraiths, undead
-- bheur hags
+- sea hags

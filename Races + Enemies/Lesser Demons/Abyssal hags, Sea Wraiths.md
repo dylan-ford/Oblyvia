@@ -1,0 +1,4 @@
+- Aspects of [[Sepulchur]], primordial of despair
+- Powerful elementals of water that feed on despair, they create sea swells and storms that ravage sailors and destroy their ships.
+	- Their haunting guises can be seen paddling through the fog that often sets in after shipwrecks, singing a hunting dirge that collects the remnant despair felt by the sailors in their final moments
+- 
