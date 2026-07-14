@@ -8,9 +8,9 @@ Appearance
 	- staff has a ships wheel on the end of it*
 	- beaver - wooden dam-hut*
 	- lamprey/hagfish
-	- anglerfish - lantern + teeth+
+	- anglerfish - lantern + teeth
 Combat
-- - Once hp has been reduced to 0, transforms into a great frog creature for phase 2
+- Once hp has been reduced to 0, transforms into a great frog creature for phase 2
 - tongue attack which grapples, and can swallow using a bonus action
 
 Ideas
@@ -32,4 +32,4 @@ Ideas
 			- could the topaz dragon help restore the dead pearl? with its eye or talon or something
 	-  high level: arch hag trying to recruit the topaz dragon into her army via sea hag
 
-- 
+- city that has white large crystals opaque growing around it, entire city sits on top of a mine; in city there is a large circular/oval building that is 2 stories and flat on top and looks like the roman colosseum without the open ceiling or tiered seats
