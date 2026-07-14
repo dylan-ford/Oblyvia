@@ -1,0 +1,1 @@
+White petricite-like city in northern-west region north of desert, above cave. large white crystals grow in a mine and in the city. all buildings are white - VERY gender equal in terms of culture; hevy meritocracy
