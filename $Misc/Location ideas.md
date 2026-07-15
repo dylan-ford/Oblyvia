@@ -1,1 +1,2 @@
-White petricite-like city in northern-west region north of desert, above cave. large white crystals grow in a mine and in the city. all buildings are white - VERY gender equal in terms of culture; hevy meritocracy
+- White petricite-like city in northern-west region north of desert, above cave. large white crystals grow in a mine and in the city. all buildings are white - VERY gender equal in terms of culture; heavy meritocracy
+	- city that has white large crystals opaque growing around it, entire city sits on top of a mine; in city there is a large circular/oval building that is 2 stories and flat on top and looks like the roman colosseum without the open ceiling or tiered seats
