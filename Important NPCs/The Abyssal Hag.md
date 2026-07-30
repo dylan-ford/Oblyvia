@@ -1,17 +1,46 @@
-Appearance
-- ghostly, hunched, older woman in an ethereal hooded veil of slimy translucent skin flaps (like gills) shrouding beneath a monstrous deep sea eel-like face with dead pale eyes and rows of crooked daggers for teeth
-
 Should be evolving with the players, not just static and brooding but learning from the players and scheming
 
 Appearance
 - ghostly, boney, hunched, older woman in an ethereal hooded veil of slimy translucent skin flaps (like gills) shrouding beneath a monstrous deep sea eel-like face with dead pale eyes and rows of crooked daggers for teeth
-	- staff has a ships wheel on the end of it*
-	- beaver - wooden dam-hut*
-	- lamprey/hagfish
+	- cascading frills coming from top of head that act as a veil and give an aquatic visual
 	- anglerfish - lantern + teeth
-Combat
-- Once hp has been reduced to 0, transforms into a great frog creature for phase 2
-- tongue attack which grapples, and can swallow using a bonus action
+	- beaver dam isolated den
+- something that used to resemble a woman but has become an ecosystem.*
+- hood/veil
+	- translucent fish membrane
+	- jellyfish bell
+	- rotting funeral veil
+	- rays of dripping kelp
+	- fish gills
+	- Imagine layers of skin hanging over one another.
+		- faint shadows of facial features beneath the membrane
+	- occasionally pulses as if water is flowing through it
+- skull
+	- sunken cheekbones
+	- permanently relaxed jaw
+	- blind sockets and smooth bone where eyes should be
+	- lips completely missing, jaw unhinges very far when singing
+		- rows of sharp teeth?
+	- no expression
+	- hair is seaweed, algae, tendrils
+- underneath
+	- grey-green bones, waterlogged
+	- barnacles, tube worms, mussels growing directly from them
+		- barnacles on elbows, shoulder blades, robs, jaw, knees, where bones connect/protrude normally to make her feel ancient
+	- hunched due to enourmous whale-like spine protruding upward
+- lower half
+	- very long forearms resembling crab legs
+	- fingers that are bent in wrong directions and very long, almost dragging in the water
+- sits on a raft that she paddles through shipwrecks
+	- made of bits of the ships and sailors whos end she cause and torment she drank up
+	- anchor chains
+- lantern
+	- Instead of carrying a lantern, She carries a drowned buoy. Inside the buoy is a trapped will-o'-wisp. Its light is pale blue. It doesn't illuminate. It only reveals fog.
+	- she brings forth a fog with her where she goes and sings; the fog is made of the despair she consumes from the sailors
+- symbols of resignation
+	- adorned with a few objects people abandoned in their final moments
+	- rings, keys, prayer beads, journals, ship navigation tools
+
 
 Ideas
 - Hag is trying to set up anchor points within the elemental plane of water for the arch hag to unleash her alien scourge
