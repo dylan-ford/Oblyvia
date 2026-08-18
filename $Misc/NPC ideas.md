@@ -28,6 +28,8 @@
 	- Eating fireball - burst of movement like a jet engine
 - antlion /devouring maw monster that lies in the middle of a giant quicksand arena trap
 	- Pulls characters and enemies towards the center every round and does massive damage/eats them when they get to the middle
+- Fey queen/trickster/shapeshifter who carries masks faces of her slain enemies on her belt that she can wear to transform into them
+	- The fool is like the mask salesman from majoras, can put on masks to change into anyone; has a mask of everyones face who is born
 
 
 Evil/nefarious sounding names
