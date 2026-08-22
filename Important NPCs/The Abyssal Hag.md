@@ -65,4 +65,5 @@ Ideas
 	- As part of her coven magic she can open a portal between any two spaces of water
 		- While party is hanging out with an important classmate or teacher on campus near a fountain/body of water, ghostly hands erupt from the pool snatching them and pulling them through... only for the pool to seem normal on investigation
 		- Maybe she is stealing the most depressed students and failed adventurers to sacrifice to some ritual to revive the dead pearl or to fill it with dread fuel
+- Early on in the campaign, one of the professors takes a class out on a field trip to a lake to practice practical magic while sailing. It gets stormy and in the distance (on a high enough perception check) is a shadowy figure looming. The teacher recognizes it as the abyssal hag of the lake who is obviously (to her) planning on destroying their ship and siphoning the despair. She will try to rally all the students to man the ship and get out of there as fast as possible, resorting to a gate spell if all else fails, all while insisting the students keep happy thoughts because the storm will get worse if they lose hope.
 

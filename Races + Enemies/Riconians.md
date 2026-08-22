@@ -1,3 +1,4 @@
-- Seafaring parrot-bird people
+- Seafaring parrot bird-people
 - Live in tall, scaffolding like structures on cliffsides above lakes
 	- Mercantile people whos culture centers around harbors, sailing, pirates, and swashbuckling
+- 
