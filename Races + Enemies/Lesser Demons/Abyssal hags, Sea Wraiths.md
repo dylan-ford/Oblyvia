@@ -1,4 +1,6 @@
 - Aspects of [[Sepulchur]], primordial of despair
 - Powerful elementals of water that feed on despair, they create sea swells and storms that ravage sailors and destroy their ships.
 	- Their haunting guises can be seen paddling through the fog that often sets in after shipwrecks, singing a hunting dirge that collects the remnant despair felt by the sailors in their final moments
-- 
+- Underlings are what look like misshapen humanoid bodies sprawling limbs out of a coiled up ammonite shells
+	- Daughters of the sea - horrifyingly ugly creatures with thin, translucent veils covering their faces
+	- Said to be the transformations of brides who were jilted on their wedding days and sought the abyssal hag for revenge on their partners

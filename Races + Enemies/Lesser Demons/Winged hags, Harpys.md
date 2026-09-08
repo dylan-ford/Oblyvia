@@ -1,0 +1,3 @@
+- Crow-harpy creatures; long gnarled fingers, talons. and twisted beaks
+- Spawn of fear archdemon
+- Live atop the Dusk Fang mountain; hurl boulders and rocks down the spiked, clustered, canyons that echo to dissuade climbers
