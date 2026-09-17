@@ -1,3 +1,5 @@
 - Environment transitions from arid, sandy desert to arcane rich floating stones and magical energies hidden beneath the solid stones
 - Large rocks with runes carved into them are strewn about the sand, and the runes glow at night
 - Cursed rock men live here in exile (GoT stone men) but also protect the temples here
+- Strange area within the sands of Kilanthis where the chaos of the windswept dunes becomes orderly, aligning itself as if following a protocol.
+- The sand here becomes rigid, forming solid rocky ground while strange, magnetic stones hover in the air. An enourmous cube floats in the center of the grounds with one of its corners pointing downwards, occasionally spinning as if trying to convey an encoded message

@@ -1,6 +1,8 @@
-- Aspects of [[Sepulchur]], primordial of despair
+- Spawn of [[Sepulchur]], primordial of despair
 - Powerful elementals of water that feed on despair, they create sea swells and storms that ravage sailors and destroy their ships.
-	- Their haunting guises can be seen paddling through the fog that often sets in after shipwrecks, singing a hunting dirge that collects the remnant despair felt by the sailors in their final moments
+	- Their haunting figures can be seen paddling through the fog that often sets in after shipwrecks, singing a haunting dirge that collects the remnant despair felt by the sailors in their final moments
+	- An organ on the end of their tails produces a ghostly-blue bioluminescence as it uses some of the stored despair energy to warp the water around it-creating anything from dense fog to large waves if enough energy is expelled
+		- Older sea wraiths are capable of destruction on much larger scales due to the years of honed craft of despair evocation. More destruction allows for more despair to be harvested to fuel larger and larger feats
 - Underlings are what look like misshapen humanoid bodies sprawling limbs out of a coiled up ammonite shells
 	- Daughters of the sea - horrifyingly ugly creatures with thin, translucent veils covering their faces
 	- Said to be the transformations of brides who were jilted on their wedding days and sought the abyssal hag for revenge on their partners

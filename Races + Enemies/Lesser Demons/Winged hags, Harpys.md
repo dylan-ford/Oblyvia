@@ -1,3 +1,5 @@
+- Spawn of fear demon
 - Crow-harpy creatures; long gnarled fingers, talons. and twisted beaks
 - Spawn of fear archdemon
 - Live atop the Dusk Fang mountain; hurl boulders and rocks down the spiked, clustered, canyons that echo to dissuade climbers
+- Can don a terrifying, hulking raven form that forces all creatures in the vicinity to make a wisdom saving throw or be feared
