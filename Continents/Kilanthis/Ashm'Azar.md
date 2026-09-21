@@ -1,4 +1,4 @@
-- This city is located in a desert and was founded on an oasis which is the only source of water for hundreds of kilometers. This water scarcity means the surrounding fauna are giant fierce monsters which compete for the water, which the denizens of the city fight against relentlessly. The city uses the parts from monsters to craft stronger weapons, armour, technology, and reinforce their architecture. Instead of a standing military, the city relies on its monster hunting guild to fight any incoming threats, and this guild is deeply entrenched in the community which immunizes it from attempts of centralized authoritarianism. Within this city they also imprison some of the captured monsters which they release into a large Colosseum where champions battle them for glory, and where new hunters are trained.
+- Capital city located in a desert and was founded on an oasis which is the only source of water for hundreds of kilometers. This water scarcity means the surrounding fauna are giant fierce monsters which compete for the water, which the denizens of the city fight against relentlessly. The city uses the parts from monsters to craft stronger weapons, armour, technology, and reinforce their architecture. Instead of a standing military, the city relies on its monster hunting guild to fight any incoming threats, and this guild is deeply entrenched in the community which immunizes it from attempts of centralized authoritarianism. Within this city they also imprison some of the captured monsters which they release into a large Colosseum where champions battle them for glory, and where new hunters are trained.
 	- - The weapons, artifacts, and architecture crafted from the monster parts retain their magical properties
 	- Ex. Killing a black dragon would allow you to imbue a sword with acidic power; using scales of a black dragon to make acid resistant armour
 	- Each year they have a great monster fighting tournament that people come from all over the world to watch
@@ -16,4 +16,4 @@ City highlights/culture
 - Monster holding area (beneath colosseum)
 - Monster processing area
 	- Beside colosseum
-	- Captured monsters are ether sent to the holding area to be studied/fought in the arena
+	- Captured monsters are either sent to the holding area to be studied/fought in the arena
