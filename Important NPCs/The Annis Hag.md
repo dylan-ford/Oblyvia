@@ -4,3 +4,5 @@
 - greatest pride of all hags, most likely to let their ego be stroked with compliments
 - feeds on anger and rage; leads an orcish horde and consumes their rage during raids
 
+- Is working with her coven to graft endless limbs and creatures together to create a corrupted god-being
+	- like a hecatoncheires; amalgam of legendary beasts she kills on her hunts
