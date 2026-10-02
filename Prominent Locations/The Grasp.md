@@ -1,0 +1,3 @@
+- Giant chasm in the middle of the x forest that resembles an enourmous hand print
+- Legends say The Empress reached down into this realm to collect a patch of soil for her own personal garden
+- Druidic holy site

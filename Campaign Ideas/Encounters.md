@@ -40,8 +40,6 @@ Alien parasitic-virus monsters invading the solar system, get stronger and stron
 - Party needs to find out how to beat them, find their nest locations with harder and harder bosses, and eventually how to get to the heart to stop it
 - Goal is to join all minds into one hivemind
 
-
-
 Caravan Raiders
   
 When transcribing spells/practicing magic in their downtime a celestial/patron makes contact with a player  

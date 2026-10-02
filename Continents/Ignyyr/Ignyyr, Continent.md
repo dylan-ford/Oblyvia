@@ -1,0 +1,4 @@
+- Ignyyr is a small continent, teeming with primordial energy due to the power of its central volcano, The Heart
+- The Heart is said to be the beating life force of the planet, channeling its old and powerful energy from its formation into the surrounding land through its eruptions
+- The wildlife here is strangely potent, and resembles species no longer seen anywhere else on the planet's surface
+	- Dinosaurs and long-extinct flora thrive here under the mystical fury of The Heart 

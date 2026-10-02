@@ -1,0 +1,7 @@
+- The Shades of Twilight are a clandestine faction of thieves who seek to redistribute wealth from those who hoard it and provide safe passage and sanctuary for refugees
+- They worship The Fool, a trickster deity who allows them to manipulate The Shroud to use concealing and teleportation magic
+- The Shades honour and worship the will of The Fool, a trickster deity whom controls The Shroud - an ethereal realm that simultaneously exists inside and outside the material realm. 
+	- Passage through this demi plane is complex, dangerous, and can leave people who naively tamper with this magic, stuck between worlds
+	- The Shroud parses space, allowing for large distances in the material realm to be traversed quickly 
+	- What sacrifices must be made to parse The Shroud?
+- The order is comprised of all sorts of races, but changelings find easy company here. Having the innate ability to shapeshift naturally lends itself to infiltration, and this notion is why changelings are often implicitly distrusted. This distrust from others more easily allowed them to find kinship with each other, forming this organization to use their powers for moral good
