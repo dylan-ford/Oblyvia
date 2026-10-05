@@ -1,0 +1,4 @@
+- Religious oligarchy structure - only people who have paid a certain amount of money to the church are eligible for certain rights/to vote on political issues
+- The higher tithe you pay, the more access you get to knowledge about the church
+- Have an angel chained beneath their grand chapel which they impale with their weapons in order to empower them with its blood
+	- Angel blood corrodes most steel and iron so special weapons must be forged with rare materials in order to withstand and harness its power

@@ -1,5 +1,12 @@
 Baba Yaga
 Yama-uba
+- cannibalistic crones
+- mouth at the top of her head under her hair
+- only weakness is a certain flower containing her soul
+- catch bullets with their hands, lovely voices to sing
+- send people to nonexistent places for the night
+- sometimes benevolent, sometimes would apply curses - very hag quality
+- sometimes ghostly - no feet
 
 - unpredictable, bizarre fascinations - different morality system
 - hoard magical secrets and knowledge
@@ -15,5 +22,8 @@ Ideas
 		- black beasts of bedlam
 	- She wants to eventually destroy the cores of each of the elemental planes - where people draw their magic from - so that she can become even more powerful as mortals weaken (hags get their powers from emotions)
 		- if a core is destroyed the plane to which it belongs begins to crumble, and spells from the corresponding element are inaccessible to mortal casters
+- She wants to use the floating university to crash into the ground above an ancient temple/tomb where one of the primordial's has been locked away
+	- Corrupt the engines that keep the university afloat
+	- The impact will destroy the university and any nearby cities - the tomb is near the Sindalum capital so it would be destroyed in the impact blast
 
-Leader of the hag quadrumvirate
+
