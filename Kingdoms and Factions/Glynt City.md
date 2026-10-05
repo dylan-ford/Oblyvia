@@ -1,0 +1,11 @@
+- Glitzy, glamourous, and every gamblers dream, this enourmous city floats above the clouds with a radiance that brightens the sky of _Nearby province_
+- Glynt City is a nexus of ambition, debauchery, and excitement where people come from all over with the hopes of riches in their eyes
+- Under the glamour of Glynt City exists a constant power struggle between three syndicates:
+	- A, cold, calculating, casino manager type, warforged; rarely leaves their tower; only grants audiences with exceptionally powerful people or considerable high rollers
+		- Only pays attention to matters that make themselves un-ignorable
+	- Ooze king, extremely greedy and ambition, fat-cat mafia boss
+		- Filled with floating coins, gambling chips, and bones
+	- , led by x: a chaotic wildcard who is seen managing his casinos as often as he is playing in them
+		- Most run-down casinos but also high variance, less rules
+	- Living casino, the casino itself has become sentient and is vying for control of its own future and prosperity
+- Large automaton with various card suit imagery, a slot machine on its chasis, and 2-4 rotating heads (of each suit) with distinct personalities (maybe just hearts, and spades), collar beneath head is roulette wheel
