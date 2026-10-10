@@ -8,6 +8,8 @@
 - Cave with 7' high ceiling, trees growing from floor-to-ceiling like stalagmites, and a wall completely removed: granting a window-like view out over the sea
 - constantly moving town/travelling circus
 
+- Coronis
+
 
 - more efficient way to invest
 	- currently re giving money to mutual funds - they do fundamental analysis look at industry company is in vs others to invest in - look at individual companies to determine what to sell
