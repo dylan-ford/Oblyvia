@@ -1,3 +1,4 @@
 - Race of humanoid bee-like people
 - Like in hive-like architecture within a hierarchical-caste system where societal members are assigned jobs and everyone works together to fulfil their duties for the betterment of the entire collective
 - Ruled by a council of queens
+- At war with gorilla-folk who ransack their hives for honey
