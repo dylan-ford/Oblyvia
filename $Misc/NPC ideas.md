@@ -14,8 +14,8 @@
 	- Ultron for motivation
 - Sorcerer lich
 	- Hails from a powerful magic bloodline
-	- Sacrifices grandchildren, nieces, nephews, etc to phylactery to maintain power
-- Necromancer with gelatinous army
+	- Sacrifices grandchildren, nieces, nephews, (other sorcerers of incredibly powerful bloodlines) to phylactery to maintain power
+- Necromancer with gelatinous army - oozes
 	- Gelatin is made from animal bones
 - Person/beast with magical blood that empowers weapons
 	- Being held captive by some group via enchanted shackles; group stabs them constantly through the stomach to imbue their weapons with blood magic, beast has regenerative capabilities so they heal
@@ -24,12 +24,18 @@
 - multi-headed/mouthed monster; dreadchoir
 - Alien that impregnate creatures, baby appearance is based on the host
 - Predator monsters who casts immobilization spells (hold person/hold monster) on its prey
-- Monster who can use its reaction to eat a 3rd level or lower spell hurled at it, inside its stomach it converts the energy to produce a unique effect
+- **Monster who can use its reaction to eat a 3rd level or lower spell hurled at it, inside its stomach it converts the energy to produce a unique effect**
 	- Eating fireball - burst of movement like a jet engine
+	- Ability recharges on 4/5/6 roll
 - antlion /devouring maw monster that lies in the middle of a giant quicksand arena trap
 	- Pulls characters and enemies towards the center every round and does massive damage/eats them when they get to the middle
 - Fey queen/trickster/shapeshifter who carries masks faces of her slain enemies on her belt that she can wear to transform into them
 	- The fool is like the mask salesman from majoras, can put on masks to change into anyone; has a mask of everyones face who is born
+
+- monk class where you are have insane innate strength from being the host of a powerful deity/aspect, but that has a huge downside and makes you manage your resources
+	- your ki powers are very strong but if you spend too many you get stunned or exhausted or something
+	- lee sin
+	- 
 
 
 Evil/nefarious sounding names
@@ -49,6 +55,6 @@ Evil/nefarious sounding names
 Names
 - Arlon - noble sounding
 - Forellow the Fool Knight
-- Monkey civilization that loves eating honey, lives near giant hives in the forest, gorilla warriors
+- Gorilla-people civilization that loves eating honey, lives near giant hives in the forest, gorilla warriors
 
 - 

@@ -14,8 +14,10 @@ Yama-uba
 	- feed on the suffering (or whatever emotion the hag is born from) through their deals
 
 Ideas
-- gives cure to beloved character/NPC's incurable disease, in exchange for a flower that's in the middle of a large circular ruin somewhere where your next boss fight will be :)
-	- Hag uses the flower for something evil nefarious; creating a spell that cripples/blights a town where someone was rude to her once
+- Appears to the party as a benevolent helper throughout the campaign
+	- Gives cure to beloved character/NPC's incurable disease, in exchange for a flower that's in the middle of a large circular ruin somewhere where your next boss fight will be :)
+		- Hag uses the flower for something evil nefarious; creating a spell that cripples/blights a town where someone was rude to her once
+	- Is trying to use the party's gathered into to spy on her hags, and take the power that each is amassing
 - She is tampering with eldritch powers, opening dimensional tears across the planes and a hostile alien virus is spilling through
 	- The virus is similar to the x parasite in Metroid. Roiling masses of black biomass and tentacles that consume anything they touch, killing them incredibly quickly and hijacking their likeness and abilities although augmented to be stronger
 		- chaos beasts
