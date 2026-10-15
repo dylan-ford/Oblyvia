@@ -1,5 +1,5 @@
 - Spawn of [[Ouisui]], primordial of decadence
 - Feed on happiness and want to make people feel happy, whether in the moment or later. Content to feed on shallow, temporary happiness
 - People who make deals with gentle hags have their heads filled with bliss and nostalgia to help them forget and avoid their painful pasts. This leaves these victims reliant on the hag to keep them happy and they will fervently defend her to do so. 
-	- These thralls become smiling zombies
+	- These thralls become like smiling zombies
 	- This allows gentle hags the greatest ability to amass followers, and ones that are deathly loyal to her to maintain their constant hits 
