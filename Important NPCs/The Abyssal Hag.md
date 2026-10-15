@@ -40,14 +40,14 @@ Appearance
 
 Ideas
 - Hag is trying to set up anchor points within the elemental plane of water for the arch hag to unleash her alien scourge
-	- With her coven magic she can open a portal between two spaces of water
+	- **With her coven magic she can open a portal between two spaces of water**
 		- Party is hanging out with a classmate/teacher on campus near a fountain or lake and ghostly, zombie-like arms reach out of the water and drag their friend into it, only for them to completely disappear
-	- Uses oysters as storage containers - large one that requires her real name as a passcode to be opened
+	- **Uses oysters as storage containers - large one that requires her real name as a passcode to be opened**
 		- contains some of the alien scourge within it, waiting to unleash it on the school to create havoc and steal the dead pearl in the chaos
 - The dead pearl
-	- Ancient relic that once had the power to grant a wish once it drained sufficient emotional energy from creatures and the world around it. The wish would be limited in valence based on the emotions absorbed. Most famously the pearl was in possession of the ___ empire who would display it prominently in the town square during festivals, capturing essence of revelry, high spirits, and joy in order to bless the city with good fortune every year. However, if enough raw anger and rage were absorbed, the pearl could unleash cataclysmic destruction.
+	- Ancient relic that once had the power to grant a wish once it drained sufficient emotional energy from creatures and the world around it. The wish would be limited in valence based on the emotions absorbed. Most famously the pearl was in possession of the Jihran empire who would display it prominently in the town square during festivals, capturing essence of revelry, high spirits, and joy in order to bless the city with good fortune every year. However, if enough raw anger and rage were absorbed, the pearl could unleash cataclysmic destruction.
 	- The pearl hasn't been active in centuries despite the efforts of countless orders of mages to restore it.
-	-  kobolds steal artifact from university
+	- kobolds steal artifact from university
 	- how did they get past the magical security system?
 		- help from an inside teacher
 	- kobolds bring artifact back to a topaz dragon
@@ -62,4 +62,5 @@ Ideas
 		- While party is hanging out with an important classmate or teacher on campus near a fountain/body of water, ghostly hands erupt from the pool snatching them and pulling them through... only for the pool to seem normal on investigation
 		- Maybe she is stealing the most depressed students and failed adventurers to sacrifice to some ritual to revive the dead pearl or to fill it with dread fuel
 - Early on in the campaign, one of the professors takes a class out on a field trip to a lake to practice practical magic while sailing. It gets stormy and in the distance (on a high enough perception check) is a shadowy figure looming. The teacher recognizes it as the abyssal hag of the lake who is obviously (to her) planning on destroying their ship and siphoning the despair. She will try to rally all the students to man the ship and get out of there as fast as possible, resorting to a gate spell if all else fails, all while insisting the students keep happy thoughts because the storm will get worse if they lose hope.
+
 
