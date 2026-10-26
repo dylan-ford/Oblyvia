@@ -57,4 +57,14 @@ Names
 - Forellow the Fool Knight
 - Gorilla-people civilization that loves eating honey, lives near giant hives in the forest, gorilla warriors
 
-- 
+
+Making monster boss fights more interesting:
+- Give a large monster multiple actions through battlefield actions
+	- On initiative 20, or after the monster's turn, describe something about its physiology or body part that changes in a way to telegraph an attack
+	- ex. Eyeball on its back opens up and glows - shoots a laser next turn, tail coils up with immense tension - tail lash next turn, arm flourish causes an area on the ground to glow - next turn it explodes
+- Can give separate hp bars, AC, hp thresholds to different monster parts which break when they are depleted
+	- AOE attacks can split damage among the main hp pool and the body part
+	- Breaking a body part can do extra damage to the main hp pool
+- When a monster reaches an hp threshold, have it move to another area for a phase 2
+	- Reviving it at 0 hp without any described changes feels cheap, moving to another area can have it enter a phase 2 where it is stronger because its in a part of its layer where it has more traps or is more attuned
+- Explain well before the fight to your players, that some fights will have moments where there is a phase change where they wont be able to interact with the monster to prevent the players from trying to counterspell or ask a million questions
